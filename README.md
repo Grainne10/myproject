@@ -53,3 +53,5 @@ Research Documents
 
 [Long Term Ecological Research Network]( https://lternet.edu/) - access date 02.03.2024 This explains the work done by this network.
 
+References:
+https://www.geeksforgeeks.org/count-nan-or-missing-values-in-pandas-dataframe/
