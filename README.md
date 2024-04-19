@@ -58,4 +58,7 @@ Research Documents
 [Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 
 ## References:
-https://www.geeksforgeeks.org/count-nan-or-missing-values-in-pandas-dataframe/
+https://www.geeksforgeeks.org/count-nan-or-missing-values-in-pandas-dataframe/ understanding missing values
+https://venngage.com/blog/bar-charts-vs-histograms/#:~:text=Although%20histograms%20and%20bar%20charts,of%20variables%20in%20a%20dataset. blog on when to use either bar chart or histogram
+https://www.w3schools.com/python/matplotlib_pyplot.asp how to plot using matplotlib
+https://www.w3schools.com/python/matplotlib_histograms.asp
