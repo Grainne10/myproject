@@ -61,4 +61,7 @@ Research Documents
 https://www.geeksforgeeks.org/count-nan-or-missing-values-in-pandas-dataframe/ understanding missing values
 https://venngage.com/blog/bar-charts-vs-histograms/#:~:text=Although%20histograms%20and%20bar%20charts,of%20variables%20in%20a%20dataset. blog on when to use either bar chart or histogram
 https://www.w3schools.com/python/matplotlib_pyplot.asp how to plot using matplotlib
-https://www.w3schools.com/python/matplotlib_histograms.asp
+https://www.w3schools.com/python/matplotlib_histograms.asp how to plot histograms
+
+https://www.investopedia.com/terms/c/correlationcoefficient.asp
+https://www.investopedia.com/terms/l/linearrelationship.asp Explains that a linear relationship can only consist of two variables
