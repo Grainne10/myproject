@@ -58,6 +58,7 @@ Research Documents
 [Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 
 ## References:
+[Artwork by Allisonhorst citation](https://allisonhorst.github.io/palmerpenguins/articles/art.html)
 [GeeksforGeeks missing values](https://www.geeksforgeeks.org/count-nan-or-missing-values-in-pandas-dataframe/ understanding missing values)
 [Venngage Barcharts vs Histograms](https://venngage.com/blog/bar-charts-vs-histograms/#:~:text=Although%20histograms%20and%20bar%20charts,of%20variables%20in%20a%20dataset) blog on when to use either bar chart or histogram
 [W3Schools matplotlib](https://www.w3schools.com/python/matplotlib_pyplot.asp) how to plot using matplotlib
