@@ -67,3 +67,5 @@ Research Documents
 [Investopedia Correlation Coefficient](https://www.investopedia.com/terms/c/correlationcoefficient.asp)
 [Wikipedia Correlation Coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) describes the linear relationship between x and y. It ranges from −1 to 1. If the value is close to +1 it implies that  if the data points are on a line as the x increases, the y also increases. If the value is close to – 1 , it implies a line where y increases while x decreases.
 https://www.investopedia.com/terms/l/linearrelationship.asp Explains that a linear relationship can only consist of two variables
+https://seaborn.pydata.org/generated/seaborn.pairplot.html - This shows pairplots using all the numerical variables in the palmer penguin dataset
+https://seaborn.pydata.org/generated/seaborn.kdeplot.html - Explanation and examples of different kernal density plots
