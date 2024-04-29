@@ -32,7 +32,6 @@ Gentoo penguin (Antarctica and sub-Antarctic) - Gentoo are deep divers and in sh
 Chinstrap penguin (Antarctica and sub-Antarctic) - Adelie are shallow divers and off shore foragers. With roughly seven million pairs of chinstrap penguins in the world. They have an average height of 68 to 76 cm (27 to 30 inches) and weight between 3.2 to 5.3 kg (7.1 to 11.7 pounds). 
 
 
-Data types:
 
 
 
@@ -48,14 +47,21 @@ Data types:
 
 Research Documents
  
-[Palmer Penguins Intro] (https://allisonhorst.github.io/palmerpenguins/articles/intro.html)  - access date 02.03.2024 . This article details some facts about the palmer penguins, it also gives advice on importing the dataset and shows some formula on how to analyse the data.
+[Palmer Penguins Intro] (https://allisonhorst.github.io/palmerpenguins/articles/intro.html) . This article details some facts about the palmer penguins, it also gives advice on importing the dataset and shows some formula on how to analyse the data.
  
-[Penguin Species] (https://oceanwide-expeditions.com/blog/meet-all-6-antarctic-penguin-species) - access date 02.03.2024 . This article explains about the different types of species and we learn about the general characteristics the penguins. 
+[Penguin Species] (https://oceanwide-expeditions.com/blog/meet-all-6-antarctic-penguin-species) . This article explains about the different types of species and we learn about the general characteristics the penguins. 
 
-[Long Term Ecological Research Network]( https://lternet.edu/) - access date 02.03.2024 This explains the work done by this network.
-(https://statisticsbyjim.com/basics/discrete-vs-continuous-data/) - access 04.03.2024 - This website explains clearly the difference between categorical and continuous variables
+[Long Term Ecological Research Network]( https://lternet.edu/) This explains the work done by this network.
+[Statistics by Jim](https://statisticsbyjim.com/basics/discrete-vs-continuous-data/) . This website explains clearly the difference between categorical and continuous variables.
 
 [Data Types](https://www.w3schools.com/python/python_datatypes.asp)
+
+
+## Comparisons to Other Work:
+[Rpubs](https://rpubs.com/TEHoule/PalmerPenguinPlayground) - Published by Taylor 19.01.2023. This project had similar ideas to mine in displaying the correlation of the palmer penguins. They pull in the dataset and describe it. They start to build up the scatterplot using ggplot, they use different shapes and colours to show different visualisations. They do a line of best fit . They show a facet grid. Overall, the conclusion is similar to mine, quote"We have concluded that there is a strong positive correlation between the flipper length and the body mass of the penguins in the given data set. Furthermore, we have confirmed that this correlation is found across all three species . We created multiple visualization to support these findings and provided information on how these visualizations were created and used to support the analysis".
+
+[Github Allison Horst](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#highlights) - This shows an examle of a scatterplot of the relationship between flipper length and body mass, though variables are on different axis, the distribution is similar. Citation:Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer ,Archipelago (Antarctica) penguin data. R package version 0.1.0. doi:#>   10.5281/zenodo.3960218.
+
 
 ## References:
 [Artwork by Allisonhorst citation](https://allisonhorst.github.io/palmerpenguins/articles/art.html)
@@ -66,6 +72,21 @@ Research Documents
 
 [Investopedia Correlation Coefficient](https://www.investopedia.com/terms/c/correlationcoefficient.asp)
 [Wikipedia Correlation Coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient) describes the linear relationship between x and y. It ranges from −1 to 1. If the value is close to +1 it implies that  if the data points are on a line as the x increases, the y also increases. If the value is close to – 1 , it implies a line where y increases while x decreases.
-https://www.investopedia.com/terms/l/linearrelationship.asp Explains that a linear relationship can only consist of two variables
-https://seaborn.pydata.org/generated/seaborn.pairplot.html - This shows pairplots using all the numerical variables in the palmer penguin dataset
-https://seaborn.pydata.org/generated/seaborn.kdeplot.html - Explanation and examples of different kernal density plots
+[Investopedia](https://www.investopedia.com/terms/l/linearrelationship.asp) Explains that a linear relationship can only consist of two variables
+[Seaborn](https://seaborn.pydata.org/generated/seaborn.pairplot.html) - This shows pairplots using all the numerical variables in the palmer penguin dataset.
+[Seaborn]https://seaborn.pydata.org/generated/seaborn.kdeplot.html - Explanation and examples of different kernal density plots.
+
+
+
+
+
+
+
+
+
+
+
+
+##That's All Folks, Thanks for Reading, I hope you enjoyed learning about the Palmer Penguins.
+
+![PalmerPenguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
