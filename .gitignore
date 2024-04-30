@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 # Ignore workings files and test files
 abc.text
+Desktop.code-workspace

@@ -5,6 +5,16 @@ I am a student at the [Atlantic Technological Universitiy] (https://www.atu.ie/)
 
 I work at [TE Connectivity] (https://www.te.com/usa-en/home.html). I am new to programming and coding .
 
+**Contents:** 
+
+1. [Overview](#Overview)
+2. [Description](#Description)
+3. [Research](#Research)
+4. [Comparisons to Other Work](#Comparisons to Other Work)
+5. [References](#references)
+
+
+
 # Overview
 
 There are three main files for this project:
@@ -25,15 +35,6 @@ The data for the Palmer Penguin project were collected by Dr. Kristen Gorman fro
 The palmerpenguins data contains size measurements for each of the three penguin species: Adelie, Gentoo, and Chinstrap. They were observed on three islands in the Palmer Archipelago, Antarctica. It looks at size measurements and sex for 344 adult penguins.  
 
 A brief description on the three penguin species can be found at [Oceanwide Expeditions Blog](https://oceanwide-expeditions.com/blog/meet-all-6-antarctic-penguin-species)
-
-Adélie penguin (Antarctica only) - Adelie are shallow divers and off shore foragers. There are an estimated 2.5 million breeding pairs of Adelie penguins in Antarctica. They weigh from 3.6 to 6.0 kg (7.9 to 13.2 pounds), grow between 46 to 71 cm (18 to 28 inches) tall.
-
-Gentoo penguin (Antarctica and sub-Antarctic) - Gentoo are deep divers and in shore foragers. There are estimated to be about  300,000 breeding pairs of Gentoo penguins in the Antarctic region. As adults, gentoos are the third largest penguin behind emperors and kings, reaching 50 - 90 cm (19.7 - 35.4 inches) tall and weigh 4.5 - 8.5 kg (9.9 - 18.7 pounds). 
- 
-Chinstrap penguin (Antarctica and sub-Antarctic) - Adelie are shallow divers and off shore foragers. With roughly seven million pairs of chinstrap penguins in the world. They have an average height of 68 to 76 cm (27 to 30 inches) and weight between 3.2 to 5.3 kg (7.1 to 11.7 pounds). 
-
-
-
 
 
 
@@ -58,7 +59,7 @@ Research Documents:
 * [Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 
 
-## Comparisons to Other Work:
+## Comparisons to Other Work
 
 * [Rpubs](https://rpubs.com/TEHoule/PalmerPenguinPlayground) - Published by Taylor 19.01.2023. This project had similar ideas to mine in displaying the correlation of the palmer penguins. They pull in the dataset and describe it. They start to build up the scatterplot using ggplot, they use different shapes and colours to show different visualisations. They do a line of best fit . They show a facet grid. Overall, the conclusion is similar to mine, quote"We have concluded that there is a strong positive correlation between the flipper length and the body mass of the penguins in the given data set. Furthermore, we have confirmed that this correlation is found across all three species . We created multiple visualization to support these findings and provided information on how these visualizations were created and used to support the analysis".
 
