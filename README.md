@@ -1,7 +1,7 @@
 # My Project
 
 **by Grainne Boyle**
-I am a student at the [Atlantic Technological Universitiy] (https://www.atu.ie/), Galway, studying the Higher Diploma in Science in Data Analytics on a part-time basis over 2 years.  This repository contains the files for  my submission of the project for the principles of data analytics module.
+I am a student at the [Atlantic Technological University] (https://www.atu.ie/), Galway, studying the Higher Diploma in Science in Data Analytics on a part-time basis over 2 years.  This repository contains the files for  my submission of the project for the principles of data analytics module.
 
 I work at [TE Connectivity] (https://www.te.com/usa-en/home.html). I am new to programming and coding .
 
@@ -10,7 +10,7 @@ I work at [TE Connectivity] (https://www.te.com/usa-en/home.html). I am new to p
 1. [Overview](#Overview)
 2. [Description](#Description)
 3. [Research](#Research)
-4. [Comparisons](#Comparisons to Similar Work)
+4. [Comparisons](#Comparisons)
 5. [References](#References)
 
 
@@ -54,7 +54,9 @@ Research Documents:
 * [Data Types](https://www.w3schools.com/python/python_datatypes.asp). W3 schools details the different data types with examples of list, strings, booleans,integers etc. You can test these on the website. 
 
 
-## Comparisons to Similar Work
+## Comparisons
+
+This section mentions some projects that I read and compared to my project. I also got some ideas from these on different graphs I could use.
 
 * [Rpubs](https://rpubs.com/TEHoule/PalmerPenguinPlayground) - Published by Taylor 19.01.2023. This project had similar ideas to mine in displaying the correlation of the palmer penguins. They pull in the dataset and describe it. They start to build up the scatterplot using ggplot, they use different shapes and colours to show different visualisations. They do a line of best fit . They show a facet grid. Overall, the conclusion is similar to mine, quote"We have concluded that there is a strong positive correlation between the flipper length and the body mass of the penguins in the given data set. Furthermore, we have confirmed that this correlation is found across all three species . We created multiple visualization to support these findings and provided information on how these visualizations were created and used to support the analysis".
 
@@ -79,7 +81,7 @@ These are some of the many articles I researched to help me learn how to do visu
 * [Facet Grids](https://www.geeksforgeeks.org/python-seaborn-facetgrid-method/) - I seen the idea for the facet grids in some of the research documents , particularly the Rpubs project above and I researched how to do it using geeksforgeeks.
 * [Disable warnings](https://www.geeksforgeeks.org/how-to-disable-python-warnings/) - This shows how to stop showing warnings that appear for plots etc.
 * [Seaborn](https://seaborn.pydata.org/generated/seaborn.pairplot.html) - This shows pairplots using all the numerical variables in the palmer penguin dataset.
-* [Seaborn]https://seaborn.pydata.org/generated/seaborn.kdeplot.html - Explanation and examples of different kernal density plots.
+* [Seaborn](https://seaborn.pydata.org/generated/seaborn.kdeplot.html) - Explanation and examples of different kernal density plots.
 * ChatGPT - This was used to tidy up and make some improvements on a few of the plots.
 * [GGPlots](https://bookdown.org/ggiaever/r4ds-solutions/data-visualize.html) - Comparison to other work, building on ggplots.
 
