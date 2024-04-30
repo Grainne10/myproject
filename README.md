@@ -10,8 +10,8 @@ I work at [TE Connectivity] (https://www.te.com/usa-en/home.html). I am new to p
 1. [Overview](#Overview)
 2. [Description](#Description)
 3. [Research](#Research)
-4. [Comparisons to Other Work](#Comparisons to Other Work)
-5. [References](#references)
+4. [Comparisons](#Comparisons to Similar Work)
+5. [References](#References)
 
 
 
@@ -49,9 +49,9 @@ A brief description on the three penguin species can be found at [Oceanwide Expe
 
 Research Documents:
  
-* [Palmer Penguins Intro] (https://allisonhorst.github.io/palmerpenguins/articles/intro.html) . This article details some facts about the palmer penguins, it also gives advice on importing the dataset and shows some formula on how to analyse the data.
+* [Palmer Penguins Intro](https://allisonhorst.github.io/palmerpenguins/articles/intro.html) . This article details some facts about the palmer penguins, it also gives advice on importing the dataset and shows some formula on how to analyse the data.
  
-* [Penguin Species] (https://oceanwide-expeditions.com/blog/meet-all-6-antarctic-penguin-species) . This article explains about the different types of species and we learn about the general characteristics the penguins. 
+* [Penguin Species](https://oceanwide-expeditions.com/blog/meet-all-6-antarctic-penguin-species) . This article explains about the different types of species and we learn about the general characteristics the penguins. 
 
 * [Long Term Ecological Research Network]( https://lternet.edu/) This explains the work done by this network.
 * [Statistics by Jim](https://statisticsbyjim.com/basics/discrete-vs-continuous-data/) . This website explains clearly the difference between categorical and continuous variables.
@@ -59,14 +59,15 @@ Research Documents:
 * [Data Types](https://www.w3schools.com/python/python_datatypes.asp)
 
 
-## Comparisons to Other Work
+## Comparisons to Similar Work
 
 * [Rpubs](https://rpubs.com/TEHoule/PalmerPenguinPlayground) - Published by Taylor 19.01.2023. This project had similar ideas to mine in displaying the correlation of the palmer penguins. They pull in the dataset and describe it. They start to build up the scatterplot using ggplot, they use different shapes and colours to show different visualisations. They do a line of best fit . They show a facet grid. Overall, the conclusion is similar to mine, quote"We have concluded that there is a strong positive correlation between the flipper length and the body mass of the penguins in the given data set. Furthermore, we have confirmed that this correlation is found across all three species . We created multiple visualization to support these findings and provided information on how these visualizations were created and used to support the analysis".
 
-* [Github Allison Horst](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#highlights) - This shows an examle of a scatterplot of the relationship between flipper length and body mass, though variables are on different axis, the distribution is similar. Citation:Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer ,Archipelago (Antarctica) penguin data. R package version 0.1.0. doi:#>   10.5281/zenodo.3960218.
+* [Github Allison Horst](https://allisonhorst.github.io/palmerpenguins/articles/intro.html#highlights) - This shows an example of a scatterplot of the relationship between flipper length and body mass, though variables are on different axis, the distribution is similar. Citation:Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer ,Archipelago (Antarctica) penguin data. R package version 0.1.0. doi:#>   10.5281/zenodo.3960218.
 
 
-## References:
+## References
+
 * [Artwork by Allisonhorst citation](https://allisonhorst.github.io/palmerpenguins/articles/art.html) - Citation for artwork.
 * [Quick Guide to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html) - A quick guide on some of the uses of Pandas from describing data to removing null values.
 * [GeeksforGeeks missing values](https://www.geeksforgeeks.org/count-nan-or-missing-values-in-pandas-dataframe/ understanding missing values) - understanding the impact of missing values.
@@ -82,18 +83,10 @@ Research Documents:
 * [Disable warnings](https://www.geeksforgeeks.org/how-to-disable-python-warnings/)
 * [Seaborn](https://seaborn.pydata.org/generated/seaborn.pairplot.html) - This shows pairplots using all the numerical variables in the palmer penguin dataset.
 * [Seaborn]https://seaborn.pydata.org/generated/seaborn.kdeplot.html - Explanation and examples of different kernal density plots.
+* ChatGPT - This was used to tidy up and make some improvements on a few of the plots.
 
 
 
-
-
-
-
-
-
-
-
-
-##That's All Folks, Thanks for Reading, I hope you enjoyed learning about the Palmer Penguins.
+## That's All Folks, Thanks for Reading, I hope you enjoyed learning about the Palmer Penguins.
 
 ![PalmerPenguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
